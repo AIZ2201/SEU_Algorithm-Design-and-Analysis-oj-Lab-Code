@@ -1,0 +1,12 @@
+﻿  1024.cpp
+D:\AIZ\大学文件\学习\算法\Project1\Project13\1024.cpp(20,28): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\AIZ\大学文件\学习\算法\Project1\Project13\1024.cpp(27,27): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  Project13.vcxproj -> D:\AIZ\大学文件\学习\算法\Project1\x64\Debug\Project13.exe
